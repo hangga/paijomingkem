@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "702825620525",
+    "firebase_url": "https://paijomingkem-eed03.firebaseio.com",
+    "project_id": "paijomingkem-eed03",
+    "storage_bucket": "paijomingkem-eed03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702825620525:android:e6292b7c8c146a60",
+        "android_client_info": {
+          "package_name": "com.mingkem.paijo.paijomingkem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702825620525-s0q2e5q4v1uleju2163dm72kfullnomi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwa3sdSnfc6slrN-HzzXqRNDKVhjHLns4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
